@@ -8,5 +8,5 @@ Game Preview: https://www.youtube.com/watch?v=0t2zstQ84Tw&feature=youtu.be
 
 Manual Link: http://content.vexrobotics.com/docs/vrc-starstruck/VRC-2016-17-Starstruck-Game-Manual-081616.pdf
 
-Vex Website:http://www.vexrobotics.com/
+Field Specifications: http://content.vexrobotics.com/docs/vrc-starstruck/VRC-2016-17-Appendix-A-Field-Appendix-061716.pdf
 ==================================================================================================================
