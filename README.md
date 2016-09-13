@@ -1,8 +1,8 @@
 # Robotics
 Read This Before Posting Anything For Vex Robotics
-+ You Are Requierd To Read The Rules And Booklet For The Chhalange
-+ Make Sure You Have Chosen The Right People You Want To Work With
-+ 
-+
-+
-+
+
+Read The Game Manual And Memorize The Rules Of The Game
+=======================================================
+Manual Link: Not Found
+Vex Website:http://www.vexrobotics.com/
+========================================================
